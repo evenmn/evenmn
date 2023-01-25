@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on molecular dynamics simulations of atomic friction and force field optimization
+- 📫 How to reach me: evenmn@mn.uio.no
