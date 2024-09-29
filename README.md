@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on molecular dynamics simulations of atomic friction and force field optimization
-- 📫 How to reach me: evenmn@mn.uio.no
+- 🔭 I’m currently working on machine learning models for regional weather forecasting
+- 📫 How to reach me: even.nordhagen@live.no
