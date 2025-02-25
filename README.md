@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on machine learning models for regional weather forecasting
-- 📫 How to reach me: even.nordhagen@live.no
+- 📫 How to reach me: even.nordhagen@gmail.com
